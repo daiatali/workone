@@ -4,10 +4,41 @@
     font-family: lato;
 }
 
+.logochico{
+    width: 30%;
+    padding: 0;
+}
+
+header{
+    background-color:#bd98343d;
+
+
+}
+
+nav{
+    padding-top: 8%;
+}
+
+nav ul{
+    list-style: none;
+    line-height: 2;
+}
+
+nav ul li{
+    display: flex;
+    justify-content: end;
+    padding-right: 35px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:#68593d;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
 h2{
     color: tomato;
     text-align: center;
-    margin-top: 50px;
     font-size:  2rem;
 }
 
